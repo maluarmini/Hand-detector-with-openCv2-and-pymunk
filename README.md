@@ -1,4 +1,4 @@
-# Hand detect with openCv2 and pymunk
+# Hand detector with openCv2 and pymunk
 Project developed with OpenCv2 and pymunk to detect hands and the collision of structures with them.
 
 ### :books: Used libraries
